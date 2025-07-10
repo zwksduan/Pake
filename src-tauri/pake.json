@@ -1,12 +1,12 @@
 {
   "windows": [
     {
-      "url": "https://weread.qq.com",
-      "url_type": "web",
+      "url": "https://bedao.io",
+      "url_type": "BeDAO",
       "hide_title_bar": true,
       "fullscreen": false,
-      "width": 1200,
-      "height": 780,
+      "width": 1600,
+      "height": 760,
       "resizable": true,
       "always_on_top": false,
       "dark_mode": false,
